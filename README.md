@@ -16,9 +16,4 @@
   
 
 
-### :fire: Statistical Data by Github :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AsliBozkurt&theme=dark&background=light)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsliBozkurt)
 
