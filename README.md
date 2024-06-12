@@ -14,12 +14,7 @@
 
 ---
   
-### 👱‍♀️ About Me :
-I am a Jr. Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.  
-- :school: I'm at 3. grade of Information Systems Engineering  at Kocaeli University in Turkey
-- :seedling: I'm currently learning Python🐍.
-- :zap: I am eager to make a change through coding.
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -30,7 +25,7 @@ I am a Jr. Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" **alt="PHP" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/phyton/phyton-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
 ---
